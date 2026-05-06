@@ -1,0 +1,11 @@
+git --version
+mkdir mi-repo
+cd mi-repo
+git init
+git remote add origin https://github.com/dailysbarbutin10/programadores-para-la-paz-semana2-dias.git
+mkdir semana2
+cd semana2
+type nul > preguntas-semana2.txt
+type nul > comandos-terminal.txt
+type nul > reflexion-semana2.txt
+dir
