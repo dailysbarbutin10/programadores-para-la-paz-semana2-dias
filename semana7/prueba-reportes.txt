@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el sistema muestra todos los reportes que han sido registrados mediante la ruta POST. Después de registrar dos reportes, la consulta devuelve una lista con ambos registros, incluyendo su id, tipo y descripción. Esto permite verificar que la información se está almacenando correctamente en memoria mientras el servidor permanece en ejecución.
