@@ -1,0 +1,13 @@
+Evento que activa el flujo:
+Se registra una nueva incidencia ambiental en el sistema.
+
+Mensaje que se enviaría a Telegram:
+"Nuevo reporte recibido. Revisar el sistema para darle seguimiento."
+
+Información que no debería enviarse por seguridad:
+- Nombres completos.
+- Documentos de identidad.
+- Direcciones.
+- Números de teléfono.
+- Contraseñas.
+- Datos personales o sensibles.

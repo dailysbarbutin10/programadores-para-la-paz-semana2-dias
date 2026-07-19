@@ -1,0 +1,16 @@
+Backlog de la solución comunitaria
+
+Prioridad 1
+Como ciudadano quiero registrar una incidencia ambiental para dejar evidencia del caso.
+
+Prioridad 2
+Como coordinador quiero recibir una alerta en Telegram cuando se registre un nuevo reporte.
+
+Prioridad 3
+Como miembro del equipo quiero consultar los reportes para hacer seguimiento.
+
+Prioridad 4
+Como líder comunitario quiero asignar responsables para atender cada incidencia.
+
+Prioridad 5
+Como administrador quiero generar un resumen de los reportes para apoyar la toma de decisiones.
